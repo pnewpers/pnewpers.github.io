@@ -19055,7 +19055,10 @@ cr.getObjectRefTable = function () { return [
 	cr.system_object.prototype.acts.AddVar,
 	cr.system_object.prototype.cnds.EveryTick,
 	cr.plugins_.Text.prototype.acts.SetText,
+	cr.plugins_.Sprite.prototype.acts.SetSize,
+	cr.system_object.prototype.acts.Wait,
 	cr.system_object.prototype.acts.GoToLayout,
 	cr.system_object.prototype.cnds.Every,
+	cr.system_object.prototype.acts.ScrollToObject,
 	cr.system_object.prototype.cnds.CompareVar
 ];};

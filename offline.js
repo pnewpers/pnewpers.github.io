@@ -1,0 +1,31 @@
+﻿{
+	"version": 1654595685,
+	"fileList": [
+		"data.js",
+		"c2runtime.js",
+		"jquery-3.4.1.min.js",
+		"offlineClient.js",
+		"images/click-sheet0.png",
+		"images/shop-sheet0.png",
+		"images/1lvl-sheet0.png",
+		"images/lvl2-sheet0.png",
+		"images/polocka-sheet0.png",
+		"images/sp3-sheet0.png",
+		"images/sp2-sheet0.png",
+		"images/pay-sheet0.png",
+		"images/ПлиточныйФон.png",
+		"images/lvl3-sheet0.png",
+		"images/Спрайт-sheet0.png",
+		"images/lvl4-sheet0.png",
+		"images/Спрайт2-sheet0.png",
+		"images/Спрайт3-sheet0.png",
+		"images/Спрайт4-sheet0.png",
+		"icon-16.png",
+		"icon-32.png",
+		"icon-114.png",
+		"icon-128.png",
+		"icon-256.png",
+		"loading-logo.png",
+		"cordova.oauth2.js"
+	]
+}
